@@ -7,6 +7,3 @@ for _ in range(1000):
     env.step(action)    # 用于提交动作，括号内是具体的动作
 
 env.close()  # 关闭环境
-
-
-
